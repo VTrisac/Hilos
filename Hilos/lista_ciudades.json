@@ -1,0 +1,19 @@
+{
+   "ciudades": [
+      {
+         "nombre": "Macondo",
+         "habitantes": 540000,
+         "alcalde": "Alyson Banner"
+      },
+      {
+         "nombre": "Camelot",
+         "habitantes": 275000,
+         "alcalde": "Tony Stark"
+      },
+      {
+         "nombre": "Reisburgo",
+         "habitantes": 3500,
+         "alcalde": "Bruce Wayne"
+      }
+   ]
+}
